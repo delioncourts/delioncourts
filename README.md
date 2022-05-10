@@ -3,17 +3,16 @@
 Меня зовут Вероника. Я начинающий frontend разработчик из Москвы.
 
 🔭 Студентка курса веб-разработки от Яндекс.Практикума
-🌱 Магистр стратегического менеджмента и инноваций.
-📫 [Telegram](https://delioncourts.github.io/mesto-react/)
+🌱 Магистр стратегического менеджмента и инноваций
+📫 [Telegram](t.me/mysterynorsolved)
 
 ## Языки и инструменты:
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delioncourts&theme=nord_bright)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delioncourts&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delioncourts&theme=nord_bright)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delioncourts&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delioncourts&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delioncourts&theme=nord_bright)
 
 
 <!--
