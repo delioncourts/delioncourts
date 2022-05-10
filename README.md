@@ -2,29 +2,12 @@
 
 Меня зовут Вероника. Я начинающий frontend разработчик из Москвы.
 
-🔭 Студентка курса веб-разработки от Яндекс.Практикума
-
-🌱 Магистр стратегического менеджмента и инноваций
-📫 [Telegram](t.me/mysterynorsolved)
++ 🔭 Студентка курса веб-разработки от Яндекс.Практикума (с осени 2021)
++ 🌱 Магистр стратегического менеджмента и инноваций
++ 📫 [Telegram](t.me/mysterynorsolved) или Koksharova.Veronika@yandex.ru
 
 ## Языки и инструменты:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delioncourts&theme=nord_bright)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delioncourts&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delioncourts&theme=nord_bright)
-
-
-<!--
-**delioncourts/delioncourts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Студентка курса веб-разработки от Яндекс.Практикума
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
