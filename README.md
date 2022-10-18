@@ -2,17 +2,20 @@
 
 Меня зовут Вероника. Я начинающий frontend разработчик из Москвы.
 
-+ 🔭 Студентка курса веб-разработки от Яндекс.Практикума (с осени 2021)
-+ 🌱 Магистр стратегического менеджмента и инноваций
++ 🔭 Закончила курса веб-разработки от Яндекс.Практикума
 + 📫 [Telegram](t.me/mysterynorsolved) или Koksharova.Veronika@yandex.ru
++ 🌱 Магистр стратегического менеджмента и инноваций
++ 🎓 Мне нравится изучать новые технологии
 
-### Языки и инструменты:
+### 🛠 &nbsp;Стек технологий:
 
-+ HTML 
-+ CSS
-+ Адаптивная вёрстка
-+ React
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delioncourts&theme=nord_bright)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delioncourts&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delioncourts&theme=nord_bright)
+### Статистика:
+[![codewars](https://www.codewars.com/users/KonstantinSky/badges/large)](https://www.codewars.com/users/delioncourts/badges/large)
